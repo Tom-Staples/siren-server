@@ -1,0 +1,202 @@
+[
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Chair (Metal Leg)",
+    "size": "1",
+    "whitePrice": {
+      "normal": 120.11,
+      "leather": 126.12,
+      "stripe": 129.72
+    },
+    "consumption": {
+      "normal": 5.9,
+      "railroad": 5.6,
+      "hpNormal": 5.9,
+      "hpRailroad": 5.6,
+      "hpNormalStripe": 5.9,
+      "hpRailroadStripe": 5.6,
+      "leather": 5.9
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Chair (Wooden Leg)",
+    "size": "1",
+    "whitePrice": {
+      "normal": 115.61,
+      "leather": 121.39,
+      "stripe": 124.86
+    },
+    "consumption": {
+      "normal": 5.9,
+      "railroad": 5.6,
+      "hpNormal": 5.9,
+      "hpRailroad": 5.6,
+      "hpNormalStripe": 5.9,
+      "hpRailroadStripe": 5.6,
+      "leather": 5.9
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Small Sofa (Metal Leg)",
+    "size": "2",
+    "whitePrice": {
+      "normal": 152.58,
+      "leather": 160.21,
+      "stripe": 164.79
+    },
+    "consumption": {
+      "normal": 8.1,
+      "railroad": 7.85,
+      "hpNormal": 8.1,
+      "hpRailroad": 7.85,
+      "hpNormalStripe": 8.1,
+      "hpRailroadStripe": 6.5,
+      "leather": 8.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Small Sofa (Wooden Leg)",
+    "size": "2",
+    "whitePrice": {
+      "normal": 148.08,
+      "leather": 155.48,
+      "stripe": 159.93
+    },
+    "consumption": {
+      "normal": 8.1,
+      "railroad": 7.85,
+      "hpNormal": 8.1,
+      "hpRailroad": 7.85,
+      "hpNormalStripe": 8.1,
+      "hpRailroadStripe": 6.5,
+      "leather": 8.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Medium Sofa (Metal Leg)",
+    "size": "2.25",
+    "whitePrice": {
+      "normal": 177.92,
+      "leather": 186.82,
+      "stripe": 192.15
+    },
+    "consumption": {
+      "normal": 9.5,
+      "railroad": 8.25,
+      "hpNormal": 9.5,
+      "hpRailroad": 8.25,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 8.25,
+      "leather": 9.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Medium Sofa (Wooden Leg)",
+    "size": "2.25",
+    "whitePrice": {
+      "normal": 173.42,
+      "leather": 182.09,
+      "stripe": 187.29
+    },
+    "consumption": {
+      "normal": 9.5,
+      "railroad": 8.25,
+      "hpNormal": 9.5,
+      "hpRailroad": 8.25,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 8.25,
+      "leather": 9.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Large Sofa (Metal Leg)",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 217.14,
+      "leather": 228,
+      "stripe": 234.51
+    },
+    "consumption": {
+      "normal": 9.5,
+      "railroad": 9.1,
+      "hpNormal": 9.5,
+      "hpRailroad": 9.1,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 9.1,
+      "leather": 9.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Large Sofa (Wooden Leg)",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 212.65,
+      "leather": 223.28,
+      "stripe": 229.66
+    },
+    "consumption": {
+      "normal": 9.5,
+      "railroad": 9.1,
+      "hpNormal": 9.5,
+      "hpRailroad": 9.1,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 9.1,
+      "leather": 9.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Large Chaise (Metal Leg)",
+    "size": "3",
+    "whitePrice": {
+      "normal": 288.9,
+      "leather": 303.35,
+      "stripe": 312.01
+    },
+    "consumption": {
+      "normal": 11.25,
+      "railroad": 10.65,
+      "hpNormal": 11.25,
+      "hpRailroad": 10.65,
+      "hpNormalStripe": 11.25,
+      "hpRailroadStripe": 10.65,
+      "leather": 11.25
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "rise",
+    "description": "Large Chaise (Wooden Leg)",
+    "size": "3",
+    "whitePrice": {
+      "normal": 279.91,
+      "leather": 293.91,
+      "stripe": 302.3
+    },
+    "consumption": {
+      "normal": 11.25,
+      "railroad": 10.65,
+      "hpNormal": 11.25,
+      "hpRailroad": 10.65,
+      "hpNormalStripe": 11.25,
+      "hpRailroadStripe": 10.65,
+      "leather": 11.25
+    }
+  }
+]

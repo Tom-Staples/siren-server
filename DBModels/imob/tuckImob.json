@@ -1,0 +1,20 @@
+[
+  {
+    "supplier": "imob",
+    "name": "tuck",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 107,
+      "leather": 107
+    },
+    "consumption": {
+      "normal": 2.6,
+      "hpNormal": 2.8,
+      "hpRailroad": 2.8,
+      "hpNormalStripe": 3.8,
+      "hpRailroadStripe": 3.8,
+      "leather": 2.6
+    }
+  }
+]

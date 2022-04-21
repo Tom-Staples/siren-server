@@ -1,0 +1,50 @@
+[
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "No Arm",
+    "size": "2",
+    "whitePrice": 356.73,
+    "consumption": 11.6
+  },
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "Narrow Arm",
+    "size": "2",
+    "whitePrice": 424.68,
+    "consumption": 13.65
+  },
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "Scroll Arm",
+    "size": "2",
+    "whitePrice": 424.68,
+    "consumption": 13.9
+  },
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "Splayed Arm",
+    "size": "2",
+    "whitePrice": 424.68,
+    "consumption": 13.75
+  },
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "Sofabed Splayed Arm",
+    "size": "2",
+    "whitePrice": 336.8,
+    "consumption": 11.55
+  },
+  {
+    "supplier": "ims",
+    "name": "sansa",
+    "description": "Sofabed Scroll Arm",
+    "size": "2",
+    "whitePrice": 336.8,
+    "consumption": 11.55
+  }
+]

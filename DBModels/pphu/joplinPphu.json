@@ -1,0 +1,107 @@
+[
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Large Sofa",
+    "size": "2.75",
+    "whiteprice": {
+      "normal": 341,
+      "leather": 347
+    },
+    "consumption": {
+      "normal": 9.9,
+      "railroad": 9.9,
+      "leather": 15.5
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Medium Sofa",
+    "size": "2.5",
+    "whiteprice": {
+      "normal": 320,
+      "leather": 324
+    },
+    "consumption": {
+      "normal": 8.8,
+      "railroad": 8.8,
+      "leather": 13.5
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Small Sofa",
+    "size": "2",
+    "whiteprice": {
+      "normal": 301,
+      "leather": 307
+    },
+    "consumption": {
+      "normal": 7.8,
+      "railroad": 7.8,
+      "leather": 12.5
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Snuggler",
+    "size": "1.5",
+    "whiteprice": {
+      "normal": 243,
+      "leather": 249
+    },
+    "consumption": {
+      "normal": 7,
+      "railroad": 7,
+      "leather": 10.59
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Chair",
+    "size": "1",
+    "whiteprice": {
+      "normal": 181,
+      "leather": 188
+    },
+    "consumption": {
+      "normal": 4,
+      "railroad": 4,
+      "leather": 7
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Stool",
+    "size": "0.5",
+    "whiteprice": {
+      "normal": 148,
+      "leather": 151
+    },
+    "consumption": {
+      "normal": 2.1,
+      "railroad": 2.1,
+      "leather": 2.5
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "joplin",
+    "description": "Scatter",
+    "size": "0.25",
+    "whiteprice": {
+      "normal": 36,
+      "leather": 36
+    },
+    "consumption": {
+      "normal": 0,
+      "railroad": 0,
+      "leather": 0
+    }
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "name": "White Price",
+    "fabricType": "white price",
+    "cost": 0
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis normal",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis normal",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis normal",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis normal",
+    "cost": 11.39
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis railroad",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis railroad",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis railroad",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis railroad",
+    "cost": 11.39
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis normal stripe",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis normal stripe",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis normal stripe",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis normal stripe",
+    "cost": 11.39
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis railroad stripe",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis railroad stripe",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis railroad stripe",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis railroad stripe",
+    "cost": 11.39
+  },
+  {
+    "name": "Erin",
+    "fabricType": "stock railroad",
+    "cost": 6.97
+  },
+  {
+    "name": "Hatton",
+    "fabricType": "stock railroad",
+    "cost": 4.55
+  },
+  {
+    "name": "Windsor",
+    "fabricType": "stock railroad",
+    "cost": 5.51
+  },
+  {
+    "name": "Carina",
+    "fabricType": "stock railroad",
+    "cost": 3.84
+  },
+  {
+    "name": "Shetland",
+    "fabricType": "stock railroad",
+    "cost": 5.22
+  },
+  {
+    "name": "Dylan",
+    "fabricType": "stock railroad",
+    "cost": 5.22
+  },
+  {
+    "name": "Victoria",
+    "fabricType": "stock railroad",
+    "cost": 4.15
+  },
+  {
+    "name": "Vegas",
+    "fabricType": "stock railroad",
+    "cost": 5.57
+  },
+  {
+    "name": "Fraser",
+    "fabricType": "stock railroad",
+    "cost": 4.44
+  },
+  {
+    "name": "Opal",
+    "fabricType": "stock normal",
+    "cost": 8.66
+  },
+  {
+    "name": "Linoso",
+    "fabricType": "stock railroad",
+    "cost": 4.12
+  },
+  {
+    "name": "Mather",
+    "fabricType": "stock railroad",
+    "cost": 4.12
+  },
+  {
+    "name": "Riley",
+    "fabricType": "stock normal",
+    "cost": 4.7
+  },
+  {
+    "name": "Saga",
+    "fabricType": "stock normal",
+    "cost": 4.63
+  },
+  {
+    "name": "Relaxed Linen",
+    "fabricType": "stock normal",
+    "cost": 5.67
+  },
+  {
+    "name": "Harriet",
+    "fabricType": "stock normal",
+    "cost": 8.73
+  },
+  {
+    "name": "Sumatra",
+    "fabricType": "stock normal",
+    "cost": 2.6
+  },
+  {
+    "name": "Sabua",
+    "fabricType": "stock normal",
+    "cost": 3.7
+  },
+  {
+    "name": "Fernando",
+    "fabricType": "stock normal",
+    "cost": 3.7
+  },
+  {
+    "name": "Roma",
+    "fabricType": "stock normal",
+    "cost": 4.95
+  },
+  {
+    "name": "Waterford",
+    "fabricType": "stock normal",
+    "cost": 5.19
+  },
+  {
+    "name": "Regal",
+    "fabricType": "stock normal",
+    "cost": 5.9
+  },
+  {
+    "name": "Romario",
+    "fabricType": "stock normal",
+    "cost": 6.32
+  },
+  {
+    "name": "Amalfi",
+    "fabricType": "stock normal",
+    "cost": 6.32
+  },
+  {
+    "name": "Kendal",
+    "fabricType": "stock normal",
+    "cost": 3.99
+  },
+  {
+    "name": "Piero",
+    "fabricType": "stock normal",
+    "cost": 5.08
+  },
+  {
+    "name": "Cologne",
+    "fabricType": "stock normal",
+    "cost": 6.54
+  },
+  {
+    "name": "Fuse",
+    "fabricType": "stock normal",
+    "cost": 4.8
+  },
+  {
+    "name": "Selvaggio",
+    "fabricType": "leather",
+    "cost": 24.09
+  },
+  {
+    "name": "Demetra",
+    "fabricType": "leather",
+    "cost": 20.54
+  },
+  {
+    "name": "Nature",
+    "fabricType": "leather",
+    "cost": 17.76
+  },
+  {
+    "name": "Soft Touch",
+    "fabricType": "leather",
+    "cost": 19.79
+  },
+  {
+    "name": "Piccadilly",
+    "fabricType": "leather",
+    "cost": 21.53
+  },
+  {
+    "name": "Contempo",
+    "fabricType": "leather",
+    "cost": 17.1
+  },
+  {
+    "name": "Winchester",
+    "fabricType": "leather",
+    "cost": 20.32
+  }
+]

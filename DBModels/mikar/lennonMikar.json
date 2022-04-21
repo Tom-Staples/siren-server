@@ -1,0 +1,222 @@
+[
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Chaise Unit",
+    "size": "3",
+    "whitePrice": {
+      "normal": 270,
+      "leather": 270,
+      "stripe": 270
+    },
+    "consumption": {
+      "normal": 11.5,
+      "railroad": 11.5,
+      "hpNormal": 11.5,
+      "hpRailroad": 11.5,
+      "hpNormalStripe": 11.5,
+      "hpRailroadStripe": 11.5,
+      "leather": 11.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Storage Chaise Sofabed",
+    "size": "3",
+    "whitePrice": {
+      "normal": 451.44,
+      "leather": 451.44,
+      "stripe": 451.44
+    },
+    "consumption": {
+      "normal": 11,
+      "railroad": 11,
+      "hpNormal": 11,
+      "hpRailroad": 11,
+      "hpNormalStripe": 11,
+      "hpRailroadStripe": 11,
+      "leather": 11
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Large Sofa",
+    "size": "3",
+    "whitePrice": {
+      "normal": 208.44,
+      "leather": 208.44,
+      "stripe": 208.44
+    },
+    "consumption": {
+      "normal": 8.5,
+      "railroad": 8.5,
+      "hpNormal": 8.5,
+      "hpRailroad": 8.5,
+      "hpNormalStripe": 8.5,
+      "hpRailroadStripe": 8.5,
+      "leather": 8.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Medium Sofa",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 160.92,
+      "leather": 160.92,
+      "stripe": 160.92
+    },
+    "consumption": {
+      "normal": 7.1,
+      "railroad": 7.1,
+      "hpNormal": 7.1,
+      "hpRailroad": 7.1,
+      "hpNormalStripe": 7.1,
+      "hpRailroadStripe": 7.1,
+      "leather": 7.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": {
+      "normal": 143.64,
+      "leather": 143.64,
+      "stripe": 143.64
+    },
+    "consumption": {
+      "normal": 6.2,
+      "railroad": 6.2,
+      "hpNormal": 6.2,
+      "hpRailroad": 6.2,
+      "hpNormalStripe": 6.2,
+      "hpRailroadStripe": 6.2,
+      "leather": 6.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Snuggler",
+    "size": "1.5",
+    "whitePrice": {
+      "normal": 127.44,
+      "leather": 127.44,
+      "stripe": 127.44
+    },
+    "consumption": {
+      "normal": 4.6,
+      "railroad": 4.6,
+      "hpNormal": 4.6,
+      "hpRailroad": 4.6,
+      "hpNormalStripe": 4.6,
+      "hpRailroadStripe": 4.6,
+      "leather": 4.6
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 99.36,
+      "leather": 99.36,
+      "stripe": 99.36
+    },
+    "consumption": {
+      "normal": 4.2,
+      "railroad": 4.2,
+      "hpNormal": 4.2,
+      "hpRailroad": 4.2,
+      "hpNormalStripe": 4.2,
+      "hpRailroadStripe": 4.2,
+      "leather": 4.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Stool",
+    "size": "0.5",
+    "whitePrice": {
+      "normal": 62.64,
+      "leather": 62.64,
+      "stripe": 62.64
+    },
+    "consumption": {
+      "normal": 1.5,
+      "railroad": 1.5,
+      "hpNormal": 1.5,
+      "hpRailroad": 1.5,
+      "hpNormalStripe": 1.5,
+      "hpRailroadStripe": 1.5,
+      "leather": 1.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Scatters",
+    "size": "0.25",
+    "whitePrice": {
+      "normal": 12.96,
+      "leather": 12.96,
+      "stripe": 12.96
+    },
+    "consumption": {
+      "normal": 0.4,
+      "railroad": 0.4,
+      "hpNormal": 0.4,
+      "hpRailroad": 0.4,
+      "hpNormalStripe": 0.4,
+      "hpRailroadStripe": 0.4,
+      "leather": 0.4
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Small Sofabed",
+    "size": "2",
+    "whitePrice": {
+      "normal": 287.28,
+      "leather": 287.28,
+      "stripe": 287.28
+    },
+    "consumption": {
+      "normal": 7.5,
+      "railroad": 7.5,
+      "hpNormal": 7.5,
+      "hpRailroad": 7.5,
+      "hpNormalStripe": 7.5,
+      "hpRailroadStripe": 7.5,
+      "leather": 7.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "lennon",
+    "description": "Medium Sofabed",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 295.92,
+      "leather": 295.92,
+      "stripe": 295.92
+    },
+    "consumption": {
+      "normal": 8.2,
+      "railroad": 8.2,
+      "hpNormal": 8.2,
+      "hpRailroad": 8.2,
+      "hpNormalStripe": 8.2,
+      "hpRailroadStripe": 8.2,
+      "leather": 8.2
+    }
+  }
+]

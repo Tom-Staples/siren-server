@@ -1,0 +1,42 @@
+[
+  {
+    "supplier": "ims",
+    "name": "compact",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": 115.67,
+    "consumption": 3.25
+  },
+  {
+    "supplier": "ims",
+    "name": "compact",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": 156.49,
+    "consumption": 4.15
+  },
+  {
+    "supplier": "ims",
+    "name": "compact",
+    "description": "Medium Sofa",
+    "size": "2.25",
+    "whitePrice": 173.5,
+    "consumption": 4.85
+  },
+  {
+    "supplier": "ims",
+    "name": "compact",
+    "description": "Large Sofa",
+    "size": "2.5",
+    "whitePrice": 200.72,
+    "consumption": 5.3
+  },
+  {
+    "supplier": "ims",
+    "name": "compact",
+    "description": "Corner Unit",
+    "size": "2.25",
+    "whitePrice": 370,
+    "consumption": 9.15
+  }
+]

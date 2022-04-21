@@ -1,0 +1,100 @@
+[
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Grand Sofabed",
+    "size": "4F",
+    "whitePrice": {
+      "lowRate": 410.5,
+      "highRate": 388.9
+    },
+    "consumption": {
+      "normal": 9.7,
+      "leather": 17
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Grand Sofa",
+    "size": "4",
+    "whitePrice": {
+      "lowRate": 295.6,
+      "highRate": 280
+    },
+    "consumption": {
+      "normal": 9.5,
+      "leather": 16.5
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Large Sofabed",
+    "size": "3F",
+    "whitePrice": {
+      "lowRate": 390.6,
+      "highRate": 370
+    },
+    "consumption": {
+      "normal": 9,
+      "leather": 14.9
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Large Sofa",
+    "size": "3",
+    "whitePrice": {
+      "lowRate": 276.8,
+      "highRate": 262.2
+    },
+    "consumption": {
+      "normal": 8.8,
+      "leather": 14.6
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Medium Sofa",
+    "size": "2",
+    "whitePrice": {
+      "lowRate": 269.8,
+      "highRate": 255.6
+    },
+    "consumption": {
+      "normal": 8.1,
+      "leather": 13.5
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Snuggler",
+    "size": "1.5",
+    "whitePrice": {
+      "lowRate": 241.6,
+      "highRate": 228.9
+    },
+    "consumption": {
+      "normal": 6.8,
+      "leather": 11.5
+    }
+  },
+  {
+    "supplier": "feniks",
+    "name": "chesterfield",
+    "description": "Footstool",
+    "size": "0.5",
+    "whitePrice": {
+      "lowRate": 104.4,
+      "highRate": 98.9
+    },
+    "consumption": {
+      "normal": 2.4,
+      "leather": 4.1
+    }
+  }
+]

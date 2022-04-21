@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Hatton",
+    "fabricType": "stock normal",
+    "cost": 4.7
+  },
+  {
+    "name": "White Price",
+    "fabricType": "white price",
+    "cost": 0
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis normal",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis normal",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis normal",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis normal",
+    "cost": 11.39
+  },
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis railroad",
+    "cost": 4.26
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis railroad",
+    "cost": 6.64
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis railroad",
+    "cost": 9.04
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis railroad",
+    "cost": 11.39
+  },
+  {
+    "name": "Selvaggio",
+    "fabricType": "leather",
+    "cost": 23.15
+  },
+  {
+    "name": "Demetra (Light Tan)",
+    "fabricType": "leather",
+    "cost": 18.52
+  },
+  {
+    "name": "Demetra",
+    "fabricType": "leather",
+    "cost": 19.59
+  },
+  {
+    "name": "Nature",
+    "fabricType": "leather",
+    "cost": 20.46
+  },
+  {
+    "name": "Soft Touch",
+    "fabricType": "leather",
+    "cost": 18.84
+  },
+  {
+    "name": "Piccadilly",
+    "fabricType": "leather",
+    "cost": 19.91
+  },
+  {
+    "name": "Contempo",
+    "fabricType": "leather",
+    "cost": 16.15
+  },
+  {
+    "name": "Winchester",
+    "fabricType": "leather",
+    "cost": 19.38
+  },
+  {
+    "name": "Europell",
+    "fabricType": "leather",
+    "cost": 15
+  },
+  {
+    "name": "Group I",
+    "fabricType": "leather",
+    "cost": 13.5
+  },
+  {
+    "name": "Group II",
+    "fabricType": "leather",
+    "cost": 10
+  }
+]

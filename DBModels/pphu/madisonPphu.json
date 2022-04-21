@@ -1,0 +1,107 @@
+[
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Grand Sofa",
+    "size": "3",
+    "whiteprice": {
+      "normal": 258,
+      "leather": 258
+    },
+    "consumption": {
+      "normal": 11.9,
+      "railroad": 11.9,
+      "leather": 14.3
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Large Sofa",
+    "size": "2.5",
+    "whiteprice": {
+      "normal": 240,
+      "leather": 240
+    },
+    "consumption": {
+      "normal": 10.1,
+      "railroad": 10.1,
+      "leather": 12.25
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Medium Sofa",
+    "size": "2.25",
+    "whiteprice": {
+      "normal": 222,
+      "leather": 222
+    },
+    "consumption": {
+      "normal": 9.8,
+      "railroad": 9.8,
+      "leather": 11.45
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Small Sofa",
+    "size": "2",
+    "whiteprice": {
+      "normal": 207,
+      "leather": 207
+    },
+    "consumption": {
+      "normal": 9,
+      "railroad": 9,
+      "leather": 10.85
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Snuggler",
+    "size": "1.5",
+    "whiteprice": {
+      "normal": 178,
+      "leather": 178
+    },
+    "consumption": {
+      "normal": 7.8,
+      "railroad": 7.8,
+      "leather": 8.6
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Chair",
+    "size": "1",
+    "whiteprice": {
+      "normal": 147,
+      "leather": 147
+    },
+    "consumption": {
+      "normal": 6.2,
+      "railroad": 6.2,
+      "leather": 7.75
+    }
+  },
+  {
+    "supplier": "pphu",
+    "name": "madison",
+    "description": "Stool",
+    "size": "0.5",
+    "whiteprice": {
+      "normal": 92,
+      "leather": 92
+    },
+    "consumption": {
+      "normal": 1.7,
+      "railroad": 1.7,
+      "leather": 1.9
+    }
+  }
+]

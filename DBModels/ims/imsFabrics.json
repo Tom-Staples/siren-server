@@ -1,0 +1,47 @@
+[
+  {
+    "name": "HP Band A",
+    "fabricType": "john lewis",
+    "cost": 4.69
+  },
+  {
+    "name": "HP Band B",
+    "fabricType": "john lewis",
+    "cost": 7.3
+  },
+  {
+    "name": "HP Band C",
+    "fabricType": "john lewis",
+    "cost": 9.94
+  },
+  {
+    "name": "HP Band D",
+    "fabricType": "john lewis",
+    "cost": 12.53
+  },
+  {
+    "name": "Kendal",
+    "fabricType": "stock",
+    "cost": 4.95
+  },
+  {
+    "name": "Piero",
+    "fabricType": "stock",
+    "cost": 5.61
+  },
+  {
+    "name": "Shetland",
+    "fabricType": "stock",
+    "cost": 5.61
+  },
+  {
+    "name": "Roma",
+    "fabricType": "stock",
+    "cost": 5.61
+  },
+  {
+    "name": "Amalfi",
+    "fabricType": "stock",
+    "cost": 7.3
+  }
+]

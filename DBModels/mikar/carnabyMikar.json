@@ -1,0 +1,242 @@
+[
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Large Sofa",
+    "size": "3",
+    "whitePrice": {
+      "normal": 163,
+      "leather": 163,
+      "stripe": 163
+    },
+    "consumption": {
+      "normal": 9.5,
+      "railroad": 9.5,
+      "hpNormal": 9.5,
+      "hpRailroad": 9.5,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 9.5,
+      "leather": 9.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Medium Sofa",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 140,
+      "leather": 140,
+      "stripe": 140
+    },
+    "consumption": {
+      "normal": 7.55,
+      "railroad": 7.55,
+      "hpNormal": 7.55,
+      "hpRailroad": 7.55,
+      "hpNormalStripe": 7.55,
+      "hpRailroadStripe": 7.55,
+      "leather": 7.55
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Medium Sofabed",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 241,
+      "leather": 241,
+      "stripe": 241
+    },
+    "consumption": {
+      "normal": 8.1,
+      "railroad": 8.1,
+      "hpNormal": 8.1,
+      "hpRailroad": 8.1,
+      "hpNormalStripe": 8.1,
+      "hpRailroadStripe": 8.1,
+      "leather": 8.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": {
+      "normal": 129,
+      "leather": 129,
+      "stripe": 129
+    },
+    "consumption": {
+      "normal": 7,
+      "railroad": 7,
+      "hpNormal": 7,
+      "hpRailroad": 7,
+      "hpNormalStripe": 7,
+      "hpRailroadStripe": 7,
+      "leather": 7
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Compact Sofa",
+    "size": "1.75",
+    "whitePrice": {
+      "normal": 118,
+      "leather": 118,
+      "stripe": 118
+    },
+    "consumption": {
+      "normal": 6.4,
+      "railroad": 6.4,
+      "hpNormal": 6.4,
+      "hpRailroad": 6.4,
+      "hpNormalStripe": 6.4,
+      "hpRailroadStripe": 6.4,
+      "leather": 6.4
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Loveseat",
+    "size": "1.5",
+    "whitePrice": {
+      "normal": 102,
+      "leather": 102,
+      "stripe": 102
+    },
+    "consumption": {
+      "normal": 5.25,
+      "railroad": 5.25,
+      "hpNormal": 5.25,
+      "hpRailroad": 5.25,
+      "hpNormalStripe": 5.25,
+      "hpRailroadStripe": 5.25,
+      "leather": 5.25
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 90,
+      "leather": 90,
+      "stripe": 90
+    },
+    "consumption": {
+      "normal": 4.2,
+      "railroad": 4.2,
+      "hpNormal": 4.2,
+      "hpRailroad": 4.2,
+      "hpNormalStripe": 4.2,
+      "hpRailroadStripe": 4.2,
+      "leather": 4.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Footstool",
+    "size": "0.5",
+    "whitePrice": {
+      "normal": 53,
+      "leather": 53,
+      "stripe": 53
+    },
+    "consumption": {
+      "normal": 1.1,
+      "railroad": 1.1,
+      "hpNormal": 1.1,
+      "hpRailroad": 1.1,
+      "hpNormalStripe": 1.1,
+      "hpRailroadStripe": 1.1,
+      "leather": 1.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Small Sofabed",
+    "size": "2",
+    "whitePrice": {
+      "normal": 238,
+      "leather": 238,
+      "stripe": 238
+    },
+    "consumption": {
+      "normal": 7.75,
+      "railroad": 7.75,
+      "hpNormal": 7.75,
+      "hpRailroad": 7.75,
+      "hpNormalStripe": 7.75,
+      "hpRailroadStripe": 7.75,
+      "leather": 7.75
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Chaise Unit",
+    "size": "3",
+    "whitePrice": {
+      "normal": 253,
+      "leather": 253,
+      "stripe": 253
+    },
+    "consumption": {
+      "normal": 11.2,
+      "railroad": 11.2,
+      "hpNormal": 11.2,
+      "hpRailroad": 11.2,
+      "hpNormalStripe": 11.2,
+      "hpRailroadStripe": 11.2,
+      "leather": 11.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Chaise Storage Sofabed",
+    "size": "3",
+    "whitePrice": {
+      "normal": 359,
+      "leather": 359,
+      "stripe": 359
+    },
+    "consumption": {
+      "normal": 11.6,
+      "railroad": 11.6,
+      "hpNormal": 11.6,
+      "hpRailroad": 11.6,
+      "hpNormalStripe": 11.6,
+      "hpRailroadStripe": 11.6,
+      "leather": 11.6
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "carnaby",
+    "description": "Full Corner",
+    "size": "3.5",
+    "whitePrice": {
+      "normal": 314,
+      "leather": 314,
+      "stripe": 314
+    },
+    "consumption": {
+      "normal": 18,
+      "railroad": 18,
+      "hpNormal": 18,
+      "hpRailroad": 18,
+      "hpNormalStripe": 18,
+      "hpRailroadStripe": 18,
+      "leather": 18
+    }
+  }
+]

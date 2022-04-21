@@ -1,0 +1,202 @@
+[
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 98.93,
+      "leather": 103.88,
+      "stripe": 106.84
+    },
+    "consumption": {
+      "normal": 3.3,
+      "railroad": 3.3,
+      "hpNormal": 3.3,
+      "hpRailroad": 3.3,
+      "hpNormalStripe": 4.3,
+      "hpRailroadStripe": 4.2,
+      "leather": 5.1
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": {
+      "normal": 142.95,
+      "leather": 150.1,
+      "stripe": 154.39
+    },
+    "consumption": {
+      "normal": 5.8,
+      "railroad": 5.3,
+      "hpNormal": 5.8,
+      "hpRailroad": 5.3,
+      "hpNormalStripe": 6.8,
+      "hpRailroadStripe": 6.3,
+      "leather": 8
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Small Sofa Pillow Back",
+    "size": "2",
+    "whitePrice": {
+      "normal": 145.24,
+      "leather": 152.5,
+      "stripe": 156.86
+    },
+    "consumption": {
+      "normal": 6.2,
+      "railroad": 6.1,
+      "hpNormal": 7.2,
+      "hpRailroad": 6.2,
+      "hpNormalStripe": 7.2,
+      "hpRailroadStripe": 6.2,
+      "leather": 7.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Medium Sofa",
+    "size": "2.25",
+    "whitePrice": {
+      "normal": 160.38,
+      "leather": 168.4,
+      "stripe": 173.21
+    },
+    "consumption": {
+      "normal": 6.5,
+      "railroad": 5.8,
+      "hpNormal": 6.5,
+      "hpRailroad": 5.8,
+      "hpNormalStripe": 7.5,
+      "hpRailroadStripe": 6.8,
+      "leather": 8.9
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Medium Sofa Pillow Back",
+    "size": "2.25",
+    "whitePrice": {
+      "normal": 162.67,
+      "leather": 170.8,
+      "stripe": 175.68
+    },
+    "consumption": {
+      "normal": 6.55,
+      "railroad": 6.65,
+      "hpNormal": 6.6,
+      "hpRailroad": 7.6,
+      "hpNormalStripe": 6.6,
+      "hpRailroadStripe": 7.6,
+      "leather": 0
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Grand Sofa",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 208.46,
+      "leather": 218.88,
+      "stripe": 225.14
+    },
+    "consumption": {
+      "normal": 6.9,
+      "railroad": 7.2,
+      "hpNormal": 6.9,
+      "hpRailroad": 7.2,
+      "hpNormalStripe": 7.9,
+      "hpRailroadStripe": 8.2,
+      "leather": 10.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Grand Sofa Pillow Back",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 210.75,
+      "leather": 221.29,
+      "stripe": 227.61
+    },
+    "consumption": {
+      "normal": 7.7,
+      "railroad": 7.65,
+      "hpNormal": 8.4,
+      "hpRailroad": 9.4,
+      "hpNormalStripe": 8.4,
+      "hpRailroadStripe": 9.4,
+      "leather": 0
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Chaise Unit",
+    "size": "3",
+    "whitePrice": {
+      "normal": 292.71,
+      "leather": 307.35,
+      "stripe": 316.13
+    },
+    "consumption": {
+      "normal": 8.1,
+      "railroad": 8.2,
+      "hpNormal": 8.1,
+      "hpRailroad": 8.2,
+      "hpNormalStripe": 9.1,
+      "hpRailroadStripe": 9.2,
+      "leather": 12.5
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Chaise Storage Sofabed",
+    "size": "3",
+    "whitePrice": {
+      "normal": 452.02,
+      "leather": 474.62,
+      "stripe": 488.18
+    },
+    "consumption": {
+      "normal": 12.5,
+      "railroad": 10.7,
+      "hpNormal": 12.5,
+      "hpRailroad": 10.7,
+      "hpNormalStripe": 14,
+      "hpRailroadStripe": 11.7,
+      "leather": 16.85
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "arlo",
+    "description": "Medium Sofabed",
+    "size": "2.25",
+    "whitePrice": {
+      "normal": 288.25,
+      "leather": 302.66,
+      "stripe": 311.31
+    },
+    "consumption": {
+      "normal": 8.5,
+      "railroad": 7.5,
+      "hpNormal": 8.5,
+      "hpRailroad": 7.5,
+      "hpNormalStripe": 9.5,
+      "hpRailroadStripe": 8.5,
+      "leather": 11.7
+    }
+  }
+]

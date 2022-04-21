@@ -1,0 +1,38 @@
+[
+  {
+    "supplier": "imob",
+    "name": "lounge",
+    "description": "Chair (With Arms)",
+    "size": "1",
+    "whitePrice": {
+      "normal": 141,
+      "leather": 148.05
+    },
+    "consumption": {
+      "normal": 1.9,
+      "hpNormal": 2,
+      "hpRailroad": 2,
+      "hpNormalStripe": 2,
+      "hpRailroadStripe": 2,
+      "leather": 2.2
+    }
+  },
+  {
+    "supplier": "imob",
+    "name": "lounge",
+    "description": "Chair (No Arms)",
+    "size": "1",
+    "whitePrice": {
+      "normal": 109.7,
+      "leather": 115.19
+    },
+    "consumption": {
+      "normal": 1.9,
+      "hpNormal": 2,
+      "hpRailroad": 2,
+      "hpNormalStripe": 2,
+      "hpRailroadStripe": 2,
+      "leather": 2.2
+    }
+  }
+]

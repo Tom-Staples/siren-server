@@ -1,0 +1,38 @@
+[
+  {
+    "supplier": "imob",
+    "name": "cane",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 186,
+      "leather": 186
+    },
+    "consumption": {
+      "normal": 3.1,
+      "hpNormal": 4.2,
+      "hpRailroad": 4.7,
+      "hpNormalStripe": 4.2,
+      "hpRailroadStripe": 4.7,
+      "leather": 3.1
+    }
+  },
+  {
+    "supplier": "imob",
+    "name": "cane",
+    "description": "Bench",
+    "size": "2.5",
+    "whitePrice": {
+      "normal": 278,
+      "leather": 278
+    },
+    "consumption": {
+      "normal": 5.3,
+      "hpNormal": 5.2,
+      "hpRailroad": 5.7,
+      "hpNormalStripe": 5.2,
+      "hpRailroadStripe": 5.7,
+      "leather": 5.3
+    }
+  }
+]

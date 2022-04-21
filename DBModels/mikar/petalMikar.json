@@ -1,0 +1,42 @@
+[
+  {
+    "supplier": "mikar",
+    "name": "petal",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": {
+      "normal": 116.61,
+      "leather": 122.44,
+      "stripe": 125.94
+    },
+    "consumption": {
+      "normal": 2.05,
+      "railroad": 2.05,
+      "hpNormal": 2.05,
+      "hpRailroad": 2.05,
+      "hpNormalStripe": 2.05,
+      "hpRailroadStripe": 2.05,
+      "leather": 2.05
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "petal",
+    "description": "Sofa",
+    "size": "1.75",
+    "whitePrice": {
+      "normal": 151.99,
+      "leather": 159.59,
+      "stripe": 164.15
+    },
+    "consumption": {
+      "normal": 2.95,
+      "railroad": 2.95,
+      "hpNormal": 2.95,
+      "hpRailroad": 2.95,
+      "hpNormalStripe": 2.95,
+      "hpRailroadStripe": 2.95,
+      "leather": 2.95
+    }
+  }
+]

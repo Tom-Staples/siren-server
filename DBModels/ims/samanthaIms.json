@@ -1,0 +1,50 @@
+[
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Footstool",
+    "size": "0.5",
+    "whitePrice": 53.3,
+    "consumption": 1.44
+  },
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": 137.21,
+    "consumption": 2.61
+  },
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Highback Chair",
+    "size": "1",
+    "whitePrice": 147.42,
+    "consumption": 3.12
+  },
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": 168.97,
+    "consumption": 3.58
+  },
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Medium Sofa",
+    "size": "2.5",
+    "whitePrice": 187.11,
+    "consumption": 4.17
+  },
+  {
+    "supplier": "ims",
+    "name": "samantha",
+    "description": "Large Sofa",
+    "size": "3",
+    "whitePrice": 202.99,
+    "consumption": 4.59
+  }
+]

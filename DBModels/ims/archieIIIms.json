@@ -1,0 +1,26 @@
+[
+  {
+    "supplier": "ims",
+    "name": "archieII",
+    "description": "Chair",
+    "size": "1",
+    "whitePrice": 133.47,
+    "consumption": 3.5
+  },
+  {
+    "supplier": "ims",
+    "name": "archieII",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": 169.87,
+    "consumption": 4.5
+  },
+  {
+    "supplier": "ims",
+    "name": "archieII",
+    "description": "Medium Sofa",
+    "size": "2.25",
+    "whitePrice": 185.65,
+    "consumption": 6.5
+  }
+]
