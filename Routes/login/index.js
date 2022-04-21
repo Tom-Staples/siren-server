@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const userSchema = require('../../Schemas/userSchema');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const { createToken } = require('../../JWT');
 
 router.post('/', async (req, res) => {

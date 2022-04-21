@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const userSchema = require('../../Schemas/userSchema');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 router.post('/', async (req, res) => {
   const { username, password } = req.body;
