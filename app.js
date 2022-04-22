@@ -22,7 +22,7 @@ app.use(express.json());
 app.use((req, res, next) => {
   res.header(
     'Access-Control-Allow-Origin',
-    'https://lively-puppy-7027cc.netlify.app'
+    'https://siren-price-database.netlify.app'
   );
   res.header(
     'Access-Control-Allow-Headers',
