@@ -47,9 +47,10 @@ app.use('/pphuFabrics', pphuFabrics);
 
 const PORT = process.env.PORT || 3001;
 const HOST = process.env.HOST || '0.0.0.0';
+const uri = process.env.MONGODB_URI || process.env.SIREN_DB;
 
 mongoose.connect(
-  process.env.SIREN_DB,
+  uri,
   { useNewUrlParser: true, useUnifiedTopology: true },
   () => {
     console.log('Connected to Siren Database');
