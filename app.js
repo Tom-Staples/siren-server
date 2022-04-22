@@ -20,7 +20,10 @@ const pphuFabrics = require('./Routes/pphuFabrics');
 
 app.use(express.json());
 app.use((req, res, next) => {
-  res.header('Access-Control-Allow-Origin', 'http://localhost:3000');
+  res.header(
+    'Access-Control-Allow-Origin',
+    'http://localhost:3000, https://lively-puppy-7027cc.netlify.app'
+  );
   res.header(
     'Access-Control-Allow-Headers',
     'Origin, X-requested-With, Content-Type, Accept, access-token'
@@ -59,5 +62,5 @@ mongoose.connect(
 
 //listening for requests to the server on port 3001
 app.listen(PORT, HOST, () => {
-  console.log('Listening on port 3001');
+  console.log(`Listening on PORT: ${PORT}`);
 });
