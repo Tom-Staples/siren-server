@@ -137,7 +137,7 @@
   {
     "name": "Linoso",
     "fabricType": "stock railroad",
-    "cost": 4.12
+    "cost": 4.44
   },
   {
     "name": "Mather",
@@ -167,7 +167,7 @@
   {
     "name": "Sumatra",
     "fabricType": "stock normal",
-    "cost": 2.6
+    "cost": 3
   },
   {
     "name": "Sabua",
@@ -182,7 +182,7 @@
   {
     "name": "Roma",
     "fabricType": "stock normal",
-    "cost": 4.95
+    "cost": 5.12
   },
   {
     "name": "Waterford",
@@ -212,12 +212,22 @@
   {
     "name": "Piero",
     "fabricType": "stock normal",
-    "cost": 5.08
+    "cost": 5.48
   },
   {
     "name": "Cologne",
     "fabricType": "stock normal",
-    "cost": 6.54
+    "cost": 6.79
+  },
+  {
+    "name": "Hopsack",
+    "fabricType": "stock normal",
+    "cost": 5.65
+  },
+  {
+    "name": "Teddy",
+    "fabricType": "stock normal",
+    "cost": 6.25
   },
   {
     "name": "Fuse",
@@ -227,22 +237,27 @@
   {
     "name": "Selvaggio",
     "fabricType": "leather",
-    "cost": 24.09
+    "cost": 22.07
   },
   {
     "name": "Demetra",
     "fabricType": "leather",
-    "cost": 20.54
+    "cost": 19.59
+  },
+  {
+    "name": "Demetra Light Tan",
+    "fabricType": "leather",
+    "cost": 18.51
   },
   {
     "name": "Nature",
     "fabricType": "leather",
-    "cost": 17.76
+    "cost": 19.38
   },
   {
     "name": "Soft Touch",
     "fabricType": "leather",
-    "cost": 19.79
+    "cost": 15.07
   },
   {
     "name": "Piccadilly",
@@ -252,11 +267,16 @@
   {
     "name": "Contempo",
     "fabricType": "leather",
-    "cost": 17.1
+    "cost": 15.07
   },
   {
     "name": "Winchester",
     "fabricType": "leather",
-    "cost": 20.32
+    "cost": 19.37
+  },
+  {
+    "name": "Saloon",
+    "fabricType": "leather",
+    "cost": 22.07
   }
 ]

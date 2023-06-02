@@ -5,9 +5,9 @@
     "description": "Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 116.61,
-      "leather": 122.44,
-      "stripe": 125.94
+      "normal": 120.11,
+      "leather": 126.12,
+      "stripe": 129.72
     },
     "consumption": {
       "normal": 2.05,
@@ -25,9 +25,9 @@
     "description": "Sofa",
     "size": "1.75",
     "whitePrice": {
-      "normal": 151.99,
-      "leather": 159.59,
-      "stripe": 164.15
+      "normal": 156.55,
+      "leather": 164.38,
+      "stripe": 169.07
     },
     "consumption": {
       "normal": 2.95,

@@ -5,9 +5,9 @@
     "description": "Large Sofa",
     "size": "3",
     "whitePrice": {
-      "normal": 163,
-      "leather": 163,
-      "stripe": 163
+      "normal": 210,
+      "leather": 210,
+      "stripe": 210
     },
     "consumption": {
       "normal": 9.5,
@@ -25,9 +25,9 @@
     "description": "Medium Sofa",
     "size": "2.5",
     "whitePrice": {
-      "normal": 140,
-      "leather": 140,
-      "stripe": 140
+      "normal": 163,
+      "leather": 163,
+      "stripe": 163
     },
     "consumption": {
       "normal": 7.55,
@@ -45,9 +45,9 @@
     "description": "Medium Sofabed",
     "size": "2.5",
     "whitePrice": {
-      "normal": 241,
-      "leather": 241,
-      "stripe": 241
+      "normal": 299,
+      "leather": 299,
+      "stripe": 299
     },
     "consumption": {
       "normal": 8.1,
@@ -65,9 +65,9 @@
     "description": "Small Sofa",
     "size": "2",
     "whitePrice": {
-      "normal": 129,
-      "leather": 129,
-      "stripe": 129
+      "normal": 145,
+      "leather": 145,
+      "stripe": 145
     },
     "consumption": {
       "normal": 7,
@@ -85,9 +85,9 @@
     "description": "Compact Sofa",
     "size": "1.75",
     "whitePrice": {
-      "normal": 118,
-      "leather": 118,
-      "stripe": 118
+      "normal": 133,
+      "leather": 133,
+      "stripe": 133
     },
     "consumption": {
       "normal": 6.4,
@@ -105,9 +105,9 @@
     "description": "Loveseat",
     "size": "1.5",
     "whitePrice": {
-      "normal": 102,
-      "leather": 102,
-      "stripe": 102
+      "normal": 115,
+      "leather": 115,
+      "stripe": 115
     },
     "consumption": {
       "normal": 5.25,
@@ -125,9 +125,9 @@
     "description": "Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 90,
-      "leather": 90,
-      "stripe": 90
+      "normal": 99,
+      "leather": 99,
+      "stripe": 99
     },
     "consumption": {
       "normal": 4.2,
@@ -145,9 +145,9 @@
     "description": "Footstool",
     "size": "0.5",
     "whitePrice": {
-      "normal": 53,
-      "leather": 53,
-      "stripe": 53
+      "normal": 65,
+      "leather": 65,
+      "stripe": 65
     },
     "consumption": {
       "normal": 1.1,
@@ -165,9 +165,9 @@
     "description": "Small Sofabed",
     "size": "2",
     "whitePrice": {
-      "normal": 238,
-      "leather": 238,
-      "stripe": 238
+      "normal": 289,
+      "leather": 289,
+      "stripe": 289
     },
     "consumption": {
       "normal": 7.75,
@@ -185,9 +185,9 @@
     "description": "Chaise Unit",
     "size": "3",
     "whitePrice": {
-      "normal": 253,
-      "leather": 253,
-      "stripe": 253
+      "normal": 312,
+      "leather": 312,
+      "stripe": 312
     },
     "consumption": {
       "normal": 11.2,
@@ -205,9 +205,9 @@
     "description": "Chaise Storage Sofabed",
     "size": "3",
     "whitePrice": {
-      "normal": 359,
-      "leather": 359,
-      "stripe": 359
+      "normal": 450,
+      "leather": 450,
+      "stripe": 450
     },
     "consumption": {
       "normal": 11.6,
@@ -225,9 +225,9 @@
     "description": "Full Corner",
     "size": "3.5",
     "whitePrice": {
-      "normal": 314,
-      "leather": 314,
-      "stripe": 314
+      "normal": 427,
+      "leather": 427,
+      "stripe": 427
     },
     "consumption": {
       "normal": 18,

@@ -5,9 +5,9 @@
     "description": "Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 167.4,
-      "leather": 175.77,
-      "stripe": 180.79
+      "normal": 172.42,
+      "leather": 181.04,
+      "stripe": 186.21
     },
     "consumption": {
       "normal": 6,
@@ -25,9 +25,9 @@
     "description": "Snuggler",
     "size": "1.5",
     "whitePrice": {
-      "normal": 189,
-      "leather": 198.45,
-      "stripe": 204.12
+      "normal": 194.67,
+      "leather": 204.4,
+      "stripe": 210.24
     },
     "consumption": {
       "normal": 7.5,
@@ -42,12 +42,32 @@
   {
     "supplier": "mikar",
     "name": "barbican",
+    "description": "Small Sofa",
+    "size": "2",
+    "whitePrice": {
+      "normal": 244.73,
+      "leather": 256.97,
+      "stripe": 264.31
+    },
+    "consumption": {
+      "normal": 9.4,
+      "railroad": 9.4,
+      "hpNormal": 9.4,
+      "hpRailroad": 9.4,
+      "hpNormalStripe": 9.4,
+      "hpRailroadStripe": 9.4,
+      "leather": 9.4
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "barbican",
     "description": "Medium Sofa",
     "size": "2.5",
     "whitePrice": {
-      "normal": 253.8,
-      "leather": 266.49,
-      "stripe": 274.1
+      "normal": 261.41,
+      "leather": 274.48,
+      "stripe": 282.32
     },
     "consumption": {
       "normal": 11.4,
@@ -65,9 +85,9 @@
     "description": "Large Sofa",
     "size": "2.75",
     "whitePrice": {
-      "normal": 270,
-      "leather": 283.5,
-      "stripe": 291.6
+      "normal": 278.1,
+      "leather": 292.01,
+      "stripe": 300.35
     },
     "consumption": {
       "normal": 12.2,
@@ -77,6 +97,26 @@
       "hpNormalStripe": 12.2,
       "hpRailroadStripe": 12.2,
       "leather": 12.2
+    }
+  },
+  {
+    "supplier": "mikar",
+    "name": "barbican",
+    "description": "Grand Sofa",
+    "size": "3.25",
+    "whitePrice": {
+      "normal": 305.91,
+      "leather": 321.21,
+      "stripe": 330.38
+    },
+    "consumption": {
+      "normal": 12.8,
+      "railroad": 12.8,
+      "hpNormal": 12.8,
+      "hpRailroad": 12.8,
+      "hpNormalStripe": 12.8,
+      "hpRailroadStripe": 12.8,
+      "leather": 12.8
     }
   }
 ]

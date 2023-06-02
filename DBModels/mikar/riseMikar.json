@@ -5,9 +5,9 @@
     "description": "Chair (Metal Leg)",
     "size": "1",
     "whitePrice": {
-      "normal": 120.11,
-      "leather": 126.12,
-      "stripe": 129.72
+      "normal": 123.23,
+      "leather": 129.39,
+      "stripe": 133.09
     },
     "consumption": {
       "normal": 5.9,
@@ -25,9 +25,9 @@
     "description": "Chair (Wooden Leg)",
     "size": "1",
     "whitePrice": {
-      "normal": 115.61,
-      "leather": 121.39,
-      "stripe": 124.86
+      "normal": 118.59,
+      "leather": 124.52,
+      "stripe": 128.08
     },
     "consumption": {
       "normal": 5.9,
@@ -45,9 +45,9 @@
     "description": "Small Sofa (Metal Leg)",
     "size": "2",
     "whitePrice": {
-      "normal": 152.58,
-      "leather": 160.21,
-      "stripe": 164.79
+      "normal": 160.93,
+      "leather": 168.98,
+      "stripe": 173.8
     },
     "consumption": {
       "normal": 8.1,
@@ -65,9 +65,9 @@
     "description": "Small Sofa (Wooden Leg)",
     "size": "2",
     "whitePrice": {
-      "normal": 148.08,
-      "leather": 155.48,
-      "stripe": 159.93
+      "normal": 156.29,
+      "leather": 164.1,
+      "stripe": 168.79
     },
     "consumption": {
       "normal": 8.1,
@@ -85,9 +85,9 @@
     "description": "Medium Sofa (Metal Leg)",
     "size": "2.25",
     "whitePrice": {
-      "normal": 177.92,
-      "leather": 186.82,
-      "stripe": 192.15
+      "normal": 187.84,
+      "leather": 197.23,
+      "stripe": 202.87
     },
     "consumption": {
       "normal": 9.5,
@@ -105,9 +105,9 @@
     "description": "Medium Sofa (Wooden Leg)",
     "size": "2.25",
     "whitePrice": {
-      "normal": 173.42,
-      "leather": 182.09,
-      "stripe": 187.29
+      "normal": 183.21,
+      "leather": 192.37,
+      "stripe": 197.87
     },
     "consumption": {
       "normal": 9.5,
@@ -125,9 +125,9 @@
     "description": "Large Sofa (Metal Leg)",
     "size": "2.5",
     "whitePrice": {
-      "normal": 217.14,
-      "leather": 228,
-      "stripe": 234.51
+      "normal": 228.95,
+      "leather": 240.4,
+      "stripe": 247.27
     },
     "consumption": {
       "normal": 9.5,
@@ -145,9 +145,9 @@
     "description": "Large Sofa (Wooden Leg)",
     "size": "2.5",
     "whitePrice": {
-      "normal": 212.65,
-      "leather": 223.28,
-      "stripe": 229.66
+      "normal": 224.33,
+      "leather": 235.55,
+      "stripe": 242.28
     },
     "consumption": {
       "normal": 9.5,
@@ -165,9 +165,9 @@
     "description": "Large Chaise (Metal Leg)",
     "size": "3",
     "whitePrice": {
-      "normal": 288.9,
-      "leather": 303.35,
-      "stripe": 312.01
+      "normal": 299.24,
+      "leather": 314.2,
+      "stripe": 323.18
     },
     "consumption": {
       "normal": 11.25,
@@ -185,9 +185,9 @@
     "description": "Large Chaise (Wooden Leg)",
     "size": "3",
     "whitePrice": {
-      "normal": 279.91,
-      "leather": 293.91,
-      "stripe": 302.3
+      "normal": 289.98,
+      "leather": 304.48,
+      "stripe": 313.18
     },
     "consumption": {
       "normal": 11.25,

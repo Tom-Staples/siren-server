@@ -4,7 +4,7 @@
     "name": "rebecca",
     "description": "Footstool",
     "size": "0.5",
-    "whitePrice": 55.57,
+    "whitePrice": 62.23,
     "consumption": 0.77
   },
   {
@@ -12,7 +12,7 @@
     "name": "rebecca",
     "description": "Chair",
     "size": "1",
-    "whitePrice": 147.42,
+    "whitePrice": 165.11,
     "consumption": 4.01
   },
   {
@@ -20,7 +20,7 @@
     "name": "rebecca",
     "description": "Snuggler",
     "size": "1",
-    "whitePrice": 175.77,
+    "whitePrice": 196.86,
     "consumption": 4.81
   },
   {
@@ -28,7 +28,7 @@
     "name": "rebecca",
     "description": "Small Sofa",
     "size": "2",
-    "whitePrice": 198.45,
+    "whitePrice": 222.26,
     "consumption": 5.61
   },
   {
@@ -36,7 +36,7 @@
     "name": "rebecca",
     "description": "Medium Sofa",
     "size": "2.25",
-    "whitePrice": 215.46,
+    "whitePrice": 241.32,
     "consumption": 6.34
   },
   {
@@ -44,7 +44,7 @@
     "name": "rebecca",
     "description": "Large Sofa",
     "size": "2.5",
-    "whitePrice": 229.07,
+    "whitePrice": 256.56,
     "consumption": 7.11
   }
 ]

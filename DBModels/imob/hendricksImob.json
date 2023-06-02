@@ -5,8 +5,8 @@
     "description": "Stool",
     "size": "0.5",
     "whitePrice": {
-      "normal": 56,
-      "leather": 58.8
+      "normal": 58,
+      "leather": 60.9
     },
     "consumption": {
       "normal": 1.2,
@@ -23,8 +23,8 @@
     "description": "Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 120,
-      "leather": 126
+      "normal": 135,
+      "leather": 141.75
     },
     "consumption": {
       "normal": 2,
@@ -41,8 +41,8 @@
     "description": "High Back Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 169,
-      "leather": 177.45
+      "normal": 184,
+      "leather": 193.2
     },
     "consumption": {
       "normal": 2.5,
@@ -59,8 +59,8 @@
     "description": "Snuggler",
     "size": "1.5",
     "whitePrice": {
-      "normal": 182,
-      "leather": 191.1
+      "normal": 195,
+      "leather": 204.75
     },
     "consumption": {
       "normal": 3.25,
@@ -77,8 +77,8 @@
     "description": "Sofa",
     "size": "2.25",
     "whitePrice": {
-      "normal": 271,
-      "leather": 284.55
+      "normal": 282,
+      "leather": 296.1
     },
     "consumption": {
       "normal": 6,
@@ -95,8 +95,8 @@
     "description": "Rocker Chair",
     "size": "1",
     "whitePrice": {
-      "normal": 195,
-      "leather": 204.75
+      "normal": 199,
+      "leather": 208.95
     },
     "consumption": {
       "normal": 2,

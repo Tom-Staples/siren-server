@@ -4,7 +4,7 @@
     "name": "barbican",
     "description": "Footstool",
     "size": "0.5",
-    "whitePrice": 138.33,
+    "whitePrice": 157,
     "consumption": 2.6
   },
   {
@@ -12,7 +12,7 @@
     "name": "barbican",
     "description": "Chair",
     "size": "1",
-    "whitePrice": 165.02,
+    "whitePrice": 187.3,
     "consumption": 4.45
   },
   {
@@ -20,7 +20,7 @@
     "name": "barbican",
     "description": "Snuggler",
     "size": "1.5",
-    "whitePrice": 191.71,
+    "whitePrice": 217.59,
     "consumption": 5.4
   },
   {
@@ -28,7 +28,7 @@
     "name": "barbican",
     "description": "Small Sofa",
     "size": "2",
-    "whitePrice": 231.76,
+    "whitePrice": 263.05,
     "consumption": 6.95
   },
   {
@@ -36,7 +36,7 @@
     "name": "barbican",
     "description": "Medium Sofa",
     "size": "2.5",
-    "whitePrice": 252.38,
+    "whitePrice": 286.45,
     "consumption": 7.9
   },
   {
@@ -44,7 +44,7 @@
     "name": "barbican",
     "description": "Large Sofa",
     "size": "2.75",
-    "whitePrice": 271.8,
+    "whitePrice": 308.49,
     "consumption": 8.4
   },
   {
@@ -52,7 +52,7 @@
     "name": "barbican",
     "description": "Grand Sofa",
     "size": "3.25",
-    "whitePrice": 291.21,
+    "whitePrice": 330.52,
     "consumption": 8.9
   },
   {
@@ -60,7 +60,7 @@
     "name": "barbican",
     "description": "Corner Unit",
     "size": "2.5-E2.5",
-    "whitePrice": 637.02,
+    "whitePrice": 723.02,
     "consumption": 18.6
   }
 ]
